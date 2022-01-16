@@ -1,5 +1,6 @@
-/// <reference path="player.ts" />
-/// <reference path="game.ts" />
+import { Game } from "./game";
+import { Player } from "./player";
+import { Utility } from "./utility";
 
 let newGame: Game;
 

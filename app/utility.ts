@@ -1,4 +1,4 @@
-class Utility {
+export class Utility {
 
   static getInputValue(elementID: string): string {
 
